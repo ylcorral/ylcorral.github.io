@@ -13,12 +13,9 @@ body {
 h1 {
   text-align: center;
 }
-</style>
-</head>
-<body>
+
 
 <h1>Heading 1 (center)</h1>
 
 
-</body>
-</html>
+
