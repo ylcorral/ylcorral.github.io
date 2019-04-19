@@ -10,8 +10,15 @@ body {
 </head>
 <body>
 
-<h1>Hello World!</h1>
-<p>This text is not easy to read on this background image.</p>
+h1 {
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>Heading 1 (center)</h1>
+
 
 </body>
 </html>
