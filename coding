@@ -9,10 +9,7 @@
 			#page { background:#eee;}
 			#header, #footer, #top-nav, #content, #content #contentbar, #content #sidebar { margin:0; padding:0;}
 						
-			/* Logo */
-			#logo { padding:10px; width:auto; float:left;}
-			#logo h1 a, h1 a:hover { color:darkblue; text-decoration:none;}
-			#logo h1 span { color:#d3d3f9;}
+		
 
 			/* Header */
 			#header { background:#eee; }
