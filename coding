@@ -118,15 +118,15 @@
 				
 					<div class="column">
 						<h2><span>Heading</span></h2>
-						<p><script>generateText(2)</script></p>
+						<p>These are the words of house Stark.</p>
 					</div>	
 					<div class="column">
 						<h2><span>Heading</span></h2>
-						<p><script>generateText(2)</script></p>
+						<p>These are the words of house Stark.</p>
 					</div>
 					<div class="column">
 						<h2><span>Heading</span></h2>
-						<p><script>generateText(2)</script></p>
+						<p>These are the words of house Stark.</p>
 					</div>	
 					
 					<div class="clr"></div>
