@@ -81,7 +81,7 @@
 				
 					<main id="contentbar">
 						<div class="article">
-							<p><script>generateText(12)</script></p>
+							<p>Ipsum</p>
 						</div>
 					</main>
 					
