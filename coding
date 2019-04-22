@@ -17,7 +17,7 @@
 			
 			/* Feature */
 			.feature { background:#eee;padding:0;}
-			.feature-inner { margin:auto;padding:10px;width:970px;background:blue; }
+			.feature-inner { margin:auto;padding:10px;width:970px;background:darkblue; }
 			.feature-inner h1 {color:#d3d3f9;font-size:32px;}
 			
 			/* Menu */
@@ -69,9 +69,6 @@
 		<div id="page">
 			<header id="header">
 				<div id="header-inner">	
-					<div id="logo">
-						<h1><a href="#">Cool<span>Logo</span></a></h1>
-					</div>
 					<div id="top-nav">
 						<ul>
 						<li><a href="#">About</a></li>
